@@ -2,7 +2,7 @@
 layout: post
 title: 第一篇博客，新起步
 comments: true
-category: [Misc,Github]
+categories: [Misc,Github]
 tags: [jekyll]
 ---
 
