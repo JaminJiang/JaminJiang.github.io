@@ -1,3 +1,1 @@
-Added Disqus, MathJax and Google Analytics.
-
-Changed typesetting of blog to enhance readability.
+forked from [codinfox/lanyon-codinfox.github.io](https://github.com/codinfox/lanyon-codinfox.github.io)
