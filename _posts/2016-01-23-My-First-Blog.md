@@ -8,7 +8,7 @@ tags: [jekyll]
 
 我的博客模板fork自：[codinfox/lanyon-codinfox.github.io](https://github.com/codinfox/lanyon-codinfox.github.io)
 
-使用这一模板的原因是：可以在文章中任意使用categories和tags，它们会被添加加入到最后的结果categories和tags中。
+使用这一模板的原因是：可以在文章中任意使用category(只能有一个)和tags，它们会被添加加入到最后的结果category和tags中。
 
 如果对github pages的修改长时间不更新在网页上，可能是出错了，可以查看gmail中接收的报错信息。我最开始遇到的错误就是'I'm a ...'中的单引号。
 
