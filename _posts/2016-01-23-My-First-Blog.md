@@ -6,7 +6,7 @@ categories: [Misc,Github]
 tags: [jekyll]
 ---
 
-博客模板fork自：[codinfox/lanyon-codinfox.github.io](https://github.com/codinfox/lanyon-codinfox.github.io)
+我的博客模板fork自：[codinfox/lanyon-codinfox.github.io](https://github.com/codinfox/lanyon-codinfox.github.io)
 
 使用这一模板的原因是：可以在文章中任意使用categories和tags，它们会被添加加入到最后的结果categories和tags中。
 
