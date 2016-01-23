@@ -11,11 +11,11 @@ relative_permalinks: true
 # Setup
 title:            Jamin Jiang
 tagline:          'Witness Me!'
-description:      'Blog of Jamin Jiang(姜加明). Here are some technical stuff. Some notes about development.'
+description:      'Blog of Jamin Jiang. Here are some technical stuff. Some notes about development.'
 url:              http://JaminJiang.github.io
 
 author:
-  name:           'Jamin Jiang(姜加明)'
+  name:           'Jamin Jiang'
   url:            http://JaminJiang.github.io
   gravatar:       https://en.gravatar.com/jaminjiang
   photo:          https://secure.gravatar.com/avatar/4aedd9db450f858c3e517d0ac415356d
