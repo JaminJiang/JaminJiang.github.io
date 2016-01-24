@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Technic-Abilities-Tree
-Technic-Abilities-Tree-Path: /public/images/Technic-Abilities-Tree.svg
+title: Technic Abilities Tree
+Technic-Abilities-Tree-Path: /public/imgs/Technic-Abilities-Tree.svg
 ---
 
 <p class="message">
@@ -12,6 +12,6 @@ This page is under construction.
 ![Technic-Abilities-Tree]({{page.Technic-Abilities-Tree-Path}})
 
 <hr/>
-<div id="cf-pdf-down">My Technic Abilities: <a href="{{ Technic-Abilities-Tree-Path }}">Technic Abilities</a>&nbsp;|&nbsp;<a href="{{ page.resume_long }}">Resume</a></div>
+<div id="cf-pdf-down">My Technic Abilities: <a href="{{ Technic-Abilities-Tree-Path }}">Technic Abilities</a>&nbsp;|&nbsp;<a href="http://jaminjiang.github.io/resume/">Resume</a></div>
 
 </div>
