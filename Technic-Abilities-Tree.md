@@ -10,8 +10,7 @@ TechnicAbilitiesTreePath: /public/imgs/Technic-Abilities-Tree.svg
 本页面显示我的技能树，技能树由百度脑图完成，生成本地svg图片格式，然后[push](https://pages.github.com/)到github主页项目的 /public/imgs/目录下。直接显示的版本不能点击链接，最下方链接的svg文件可以打开链接。
 
 ***
-#我的技能树：
-
+#我的技能树
 
 ![Technic-Abilities-Tree]({{page.TechnicAbilitiesTreePath}})
 
