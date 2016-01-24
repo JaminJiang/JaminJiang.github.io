@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Technic-Abilities-Tree
 Technic-Abilities-Tree-Path: /public/images/Technic-Abilities-Tree.svg
 ---
 
@@ -12,6 +12,6 @@ This page is under construction.
 ![Technic-Abilities-Tree]({{page.Technic-Abilities-Tree-Path}})
 
 <hr/>
-<div id="cf-pdf-down">My Technic Abilities Tree: <a href="{{ Technic-Abilities-Tree-Path }}">short</a>&nbsp;|&nbsp;<a href="{{ page.resume_long }}">Resume</a></div>
+<div id="cf-pdf-down">My Technic Abilities: <a href="{{ Technic-Abilities-Tree-Path }}">Technic Abilities</a>&nbsp;|&nbsp;<a href="{{ page.resume_long }}">Resume</a></div>
 
 </div>
